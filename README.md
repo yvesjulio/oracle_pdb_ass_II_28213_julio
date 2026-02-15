@@ -1,9 +1,9 @@
-\ Oracle Pluggable Database (PDB) Management – Assignment II
+ Oracle Pluggable Database (PDB) Management – Assignment II
 
-\\Course:\\ Database Development with PL/SQL (INSY 8311\)    
-\\Student Name:\\ISHIMWE Yves Julio    
-\\Student ID:\\ 28213    
-\\*Repository Visibility:\\Public  
+Course:Database Development with PL/SQL (INSY 8311\)    
+Student Name:ISHIMWE Yves Julio    
+Student ID: 28213    
+Repository Visibility:Public  
 
 \---
 
