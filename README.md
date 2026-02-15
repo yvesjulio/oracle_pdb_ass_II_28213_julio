@@ -1,9 +1,9 @@
-\# Oracle Pluggable Database (PDB) Management – Assignment II
+\ Oracle Pluggable Database (PDB) Management – Assignment II
 
-\*\*Course:\*\* Database Development with PL/SQL (INSY 8311\)    
-\*\*Student Name:\*\* ISHIMWE Yves Julio    
-\*\*Student ID:\*\* 28213    
-\*\*Repository Visibility:\*\* Public  
+\\Course:\\ Database Development with PL/SQL (INSY 8311\)    
+\\Student Name:\\ISHIMWE Yves Julio    
+\\Student ID:\\ 28213    
+\\*Repository Visibility:\\Public  
 
 \---
 
@@ -22,7 +22,7 @@ This repository documents the practical implementation of Oracle Multitenant Arc
 \#\# 3\. Task Execution Details
 
 \#\#\# Task 1: Permanent PDB Creation  
-\*\*Goal:\*\* Create a persistent PDB for future coursework.
+\\Goal:\\ Create a persistent PDB for future coursework.
 
 \- \*\*PDB Name:\*\* \`ju\_pdb\_28213\`  
 \- \*\*Admin User:\*\* \`julio\_plsqlauca\_28213\`
